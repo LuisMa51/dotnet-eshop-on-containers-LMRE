@@ -1,0 +1,8 @@
+Una version de archivos diferentes.
+
+Zeken Rengoku 
+Version de los 3 comandos utilizados en git
+
+git add --all
+git commit -m "Mi mensaje"
+git push --all
